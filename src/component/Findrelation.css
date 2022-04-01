@@ -1,0 +1,30 @@
+.form {
+    padding: 0% 20%;
+  }
+  
+  .horizontal {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .center {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .half {
+    width: 70%;
+  }
+  
+  .check {
+    width: fit-content;
+  }
+
+
+  .vertical-center {
+   
+    margin-left: 150;
+    position: center;
+    top: 20%;
+    
+  }
